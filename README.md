@@ -1,4 +1,4 @@
-# hotstarchecker
+# hotstar account checker
 
 This app will check if provided username/password is correct.
 You can provide multiple credentials separated by :(can be changed).
