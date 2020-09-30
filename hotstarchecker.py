@@ -3,7 +3,7 @@ import json
 import random
 fh=open('hotstar.txt', 'r')
 proxy = ""
-line = fh.readline()
+
 
 
 def isVip(email, payload, headers):
@@ -45,5 +45,4 @@ for line in fh:
                 f.close()
         else:
             print ("Login Failed ")
-        line = fh.readline()
 fh.close()
